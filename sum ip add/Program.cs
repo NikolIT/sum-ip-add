@@ -89,7 +89,7 @@ namespace sum_ip_add
                 }
 
                 PrintValues(GetSumIp(), _IpAddres);
-                Console.WriteLine("\n\nДля продовження натисніть Enter, для виходу впишіть ex");
+                Console.WriteLine("\n\nДля продовження натиснiть Enter, для виходу впишiть ex");
 
                 switch (Console.ReadLine())
                 {
@@ -201,7 +201,7 @@ namespace sum_ip_add
         {
             Console.Clear();
             Console.WriteLine("Ведiть ip адреси для суммаризацiї");
-            Console.WriteLine("Для очищення списту введiть clean, а для проведення суммаризiцiї sum, для виходу впишіть ex");
+            Console.WriteLine("Для очищення списту введiть clean, а для проведення суммаризiцiї sum, для виходу впишiть ex");
         }
 
         private static void CleanIpList()
