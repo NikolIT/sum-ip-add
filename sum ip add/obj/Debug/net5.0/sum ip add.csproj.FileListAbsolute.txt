@@ -1,0 +1,16 @@
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.exe
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.deps.json
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.runtimeconfig.json
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.runtimeconfig.dev.json
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.dll
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\ref\sum ip add.dll
+C:\Users\nikol\source\repos\sum ip add\sum ip add\bin\Debug\net5.0\sum ip add.pdb
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.AssemblyInfo.cs
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.dll
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\ref\sum ip add.dll
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.pdb
+C:\Users\nikol\source\repos\sum ip add\sum ip add\obj\Debug\net5.0\sum ip add.genruntimeconfig.cache
